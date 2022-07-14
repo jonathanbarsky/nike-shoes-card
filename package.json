@@ -2,10 +2,14 @@
   "name": "card-web-component",
   "version": "1.0.0",
   "description": "es una card hecha con web components\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[mo\u001b[C\u001b[D\u001b[Do web component",
-  "main": "src/index.html",
+  "main": "./src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jonathan Barsky <barskyjonathan96@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "homepage": "https://jonathanbarsky.github.io/nike-shoes-card"
 }
